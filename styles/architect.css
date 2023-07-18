@@ -136,6 +136,45 @@ main {
   font-size: 1rem;
   font-weight: 400;
 }
+.feature-card {
+  margin-top: 30px;
+  padding-top: 5px;
+  padding-left: 20px;
+  width: 586px;
+  height: 171px;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+}
+.feature-card-title {
+  color: #131313;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.feature-card-description {
+  width: 514px;
+  color: #727272;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.ten-year-badge {
+  width: 342px;
+  height: 200px;
+  border-radius: 8px;
+  background: #ff900e;
+}
+.ten-year-title {
+  color: #fff;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+}
+.ten-year-description {
+  color: #fff;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
 /* facts section related styles */
 
 .fact-container {
